@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../SimpleDemoCamunda/pom.xml" />
+        <option value="$PROJECT_DIR$/../advanced-bpmn-symbols/pom.xml" />
       </list>
     </option>
   </component>
